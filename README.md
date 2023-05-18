@@ -1,1 +1,1 @@
-# Dice.random
+# Dice.game
